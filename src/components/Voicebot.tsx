@@ -15,8 +15,7 @@ export default function Voicebot() {
         <div
           className="h-full w-full"
           style={{
-            background:
-              "url('public/images/mountain.png') center/cover no-repeat",
+            background: "url('/images/mountain.png') center/cover no-repeat",
             filter: "opacity(0.3)",
           }}
         />
